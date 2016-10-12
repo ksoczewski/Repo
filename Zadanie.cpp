@@ -143,6 +143,7 @@ int main()
     int n,k;
     cin>>n;
 	cout<<"Zmiana";
+	cout<<"Jeszcze jedna";
 	Point points[n];
 	for (int i=0;i<n;i++)
 	{
