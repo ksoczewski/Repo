@@ -1,4 +1,5 @@
 #include <iostream>
+
 #include <string.h>
 using namespace std;
 
@@ -30,7 +31,7 @@ public:
 int main() {
     /*
     char name[256];
-
+	cout<<"Zmiana";
     cin.getline(name, 256);
     cout.write("\"", 1);
     cout.write(name, strlen(name));
