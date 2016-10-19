@@ -31,7 +31,7 @@ public:
 int main() {
     /*
     char name[256];
-	cout<<"Zmiana";
+	cout<<"Zmiana 21312";
     cin.getline(name, 256);
     cout.write("\"", 1);
     cout.write(name, strlen(name));
